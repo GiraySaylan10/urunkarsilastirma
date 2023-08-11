@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Portakal",
+      "price": 33 ,
+      "image": "https://biosantarim.com/tema/genel/uploads/urunler/portakal.png",
+      
+      "condition" : "Dondurulmuş"
+    },
+    {
+      "id": 2,
+      "title": "Mandalina",
+      "price": 20 ,
+      "image": "https://static.ticimax.cloud/34612/uploads/urunresimleri/buyuk/freeze-dried-mandalina-8390-3.png",
+      
+      "condition" : "Taze"
+    },
+    {
+      "id": 3,
+      "title": "Havuç",
+      "price": 40 ,
+      "image": "https://static.wixstatic.com/media/7fd743_b09f5422ff71445c8032591117111653~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+      
+      "condition" : "Taze"
+    },
+    {
+      "id": 4,
+      "title": "Elma",
+      "price": 32,
+      "image": "https://fidancilar.com/image/cache/catalog/feed_1/golden-delicious-elma-fidani-sari-elma-3-8386-750x750.png",
+      
+      "condition" : "Taze"
+    }
+]

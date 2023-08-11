@@ -1,0 +1,40 @@
+.product {
+    cursor: pointer;
+    
+    border-radius: 5px;
+    overflow: hidden;
+   
+    border: 5px solid red;
+    box-shadow: 2px 2px yellow;
+
+}
+
+      
+#product1:hover{
+   background-color: greenyellow;
+}
+
+#product2:hover{
+    background-color:greenyellow
+}
+#product3:hover{
+    background-color:greenyellow
+}
+#product4:hover{
+    background-color:greenyellow
+}
+
+
+
+.table, td  ,th {
+    border: 5px solid red;
+  }
+  
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+  
+   
+
+  
